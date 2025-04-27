@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2hmedsabry&label=Profile%20views&color=0e75b6&style=flat" alt="2hmedsabry" /> </p>
 
-<p align="left"> <a href="https://twitter.com/2hmed_sabry" target="blank"><img src="https://img.shields.io/twitter/follow/2hmed_sabry?logo=twitter&style=for-the-badge" alt="2hmed_sabry" /></a> </p>
+<p align="left"> <a href="https://twitter.com/2hmedsabri" target="blank"><img src="https://img.shields.io/twitter/follow/2hmed_sabry?logo=twitter&style=for-the-badge" alt="2hmed_sabry" /></a> </p>
 
 - 🌱 I’m currently learning **React,**
 
